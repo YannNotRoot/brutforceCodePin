@@ -92,6 +92,7 @@ En millisecondes (ms) ?
 ### Mission 5: Temporisation
 
 Relancez le programme. Quelle est sa durée ?
+    
     Tempo : 5ms
     Code : 4584
     Temps : 63.709323883057 secondes
