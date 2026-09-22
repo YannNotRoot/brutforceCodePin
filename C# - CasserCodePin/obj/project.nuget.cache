@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwiwM35pGpo=",
+  "success": true,
+  "projectFilePath": "E:\\DOC_FÉNELON\\Seconde année\\Nicolas COSNEAU\\B3\\01. Brute Force\\C# TP-06\\CasserCodePin\\CasserCodePin - C#\\CasserCodePin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
